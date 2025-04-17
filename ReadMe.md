@@ -56,6 +56,6 @@ AutoVizor is an all-in-one Streamlit-based application that helps you **upload**
 ### 📦 Install Dependencies
 
 ```bash
-git clone https://github.com/yourusername/autovizor.git
+git clone https://github.com/sfantaye/autovizor.git
 cd autovizor
 pip install -r requirements.txt
