@@ -5,6 +5,7 @@ numpy
 matplotlib
 seaborn
 plotly
+phik
 altair
 ydata-profiling
 streamlit-pandas-profiling
